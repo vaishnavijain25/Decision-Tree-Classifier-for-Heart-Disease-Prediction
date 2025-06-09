@@ -1,8 +1,10 @@
-• **Project Overview**
+# **Decision Tree Classifier for Heart Disease Prediction**
+
+### • **Project Overview**
 
 Developed a Decision Tree model to predict heart disease in patients using clinical features. The model helps early detection, supporting doctors to identify high-risk patients quickly.
 
-• **Dataset**
+### • **Dataset**
 
 303 patient records
 
@@ -10,7 +12,7 @@ Developed a Decision Tree model to predict heart disease in patients using clini
 
 Target: Presence of heart disease (1 = yes, 0 = no)
 
-• **Key Steps**
+### • **Key Steps**
 
 Cleaned data and handled duplicates
 
@@ -22,11 +24,11 @@ Tuned hyperparameters with GridSearchCV, improving accuracy to ~90%
 
 Visualized the tree and identified important features (chest pain type, heart rate)
 
-• **Outcome**
+### • **Outcome**
 
 An accurate, interpretable model for early heart disease detection that can be integrated into healthcare tools for better patient management and faster diagnosis.
 
-• **Libraries**
+### • **Libraries**
 
 Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
